@@ -1,4 +1,4 @@
-OPEN SOFT 
+#OPEN SOFT 
 Problem Statement 2
 
 This is a repo for quiz website which is made using HTML, CSS, django
